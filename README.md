@@ -1,2 +1,2 @@
 # localist
-A python library to help with project localizations
+A simple python library for project localizations
