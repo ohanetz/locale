@@ -1,1 +1,1 @@
-from .localist import *
+from .localist import Localist
